@@ -14,5 +14,6 @@ namespace QR_Menu.Models
 		[StringLength(10)]//Maksimum 10 deger alır.
 		[Column(TypeName = "nvarchar(10)")]//Veritabanındaki tipini verdim.
 		public string Name { get; set; } = "";
+		// deneme
 	}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/derslik1-3/Projects/QR_Menu/QR_Menu/QR_Menu.csproj": {}
+    "/Users/derslik1-3/Projects/gitProjects/RestaurantsMVC/QR_Menu/QR_Menu.csproj": {}
   },
   "projects": {
-    "/Users/derslik1-3/Projects/QR_Menu/QR_Menu/QR_Menu.csproj": {
+    "/Users/derslik1-3/Projects/gitProjects/RestaurantsMVC/QR_Menu/QR_Menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/derslik1-3/Projects/QR_Menu/QR_Menu/QR_Menu.csproj",
+        "projectUniqueName": "/Users/derslik1-3/Projects/gitProjects/RestaurantsMVC/QR_Menu/QR_Menu.csproj",
         "projectName": "QR_Menu",
-        "projectPath": "/Users/derslik1-3/Projects/QR_Menu/QR_Menu/QR_Menu.csproj",
+        "projectPath": "/Users/derslik1-3/Projects/gitProjects/RestaurantsMVC/QR_Menu/QR_Menu.csproj",
         "packagesPath": "/Users/derslik1-3/.nuget/packages/",
-        "outputPath": "/Users/derslik1-3/Projects/QR_Menu/QR_Menu/obj/",
+        "outputPath": "/Users/derslik1-3/Projects/gitProjects/RestaurantsMVC/QR_Menu/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/derslik1-3/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfVovP2SFmDtXD3hjCge8NgqQy5kgqck0xlni88z4EElGsYaQ4gm9tKGSg5Z+m7wSbbDiilVRtekqMaK4s+KHQ==",
+  "dgSpecHash": "dGvt4Zl2LHbYqRH3thf8kiK0xp+A3Z1v66fE9F7zvvsGKXnRUCDw/7brUaaVdeQtkK7H8k0EHCGvbUCIAS+2wA==",
   "success": true,
-  "projectFilePath": "/Users/derslik1-3/Projects/QR_Menu/QR_Menu/QR_Menu.csproj",
+  "projectFilePath": "/Users/derslik1-3/Projects/gitProjects/RestaurantsMVC/QR_Menu/QR_Menu.csproj",
   "expectedPackageFiles": [
     "/Users/derslik1-3/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/derslik1-3/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
